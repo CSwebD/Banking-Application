@@ -64,6 +64,3 @@ Below is the actual screenshot of the application interface:
 
 <img src="image.png" alt="Banking Application GUI Screenshot" style="max-width:100%; height:auto;" />
 
-## License
-
-This project is released under the MIT License.
