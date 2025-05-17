@@ -60,7 +60,9 @@ The program simulates a bank account with the following features:
 
 ## Screenshot
 
-See `image.png` for a screenshot of the running application.
+Below is the actual screenshot of the application interface:
+
+<img src="image.png" alt="Banking Application GUI Screenshot" style="max-width:100%; height:auto;" />
 
 ## License
 
